@@ -6,6 +6,8 @@ Originally designed for use in conjunction with Babcock and Ganetzky's "Improved
 
 Scripts are designed to be used with a Raspberry Pi and PiCamera
 
+Repository is a work in progress...stay tuned
+
 <ol>
   <li>Captures image</li>
   <li>Performs particle detection</li>
